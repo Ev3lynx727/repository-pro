@@ -15,13 +15,13 @@ AI-powered skill for creating professional GitHub repositories with:
 ## Installation
 
 ```bash
-npx skills add your-username/repository-pro
+npx skills add Ev3lynx727/repository-pro
 ```
 
 Or from URL:
 
 ```bash
-npx skills add https://github.com/your-username/repository-pro
+npx skills add https://github.com/Ev3lynx727/repository-pro
 ```
 
 ## Usage
